@@ -2,12 +2,12 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>家計簿アプリ</title>
+    <title>支出管理アプリ</title>
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
 </head>
 <body>
     <header>
-        <h1>家計簿アプリ <span style="color:black;">Expenses</span></h1>
+        <h1>支出管理アプリ <span style="color:black;">Expenses</span></h1>
     </header>
 
     <section class="container">
